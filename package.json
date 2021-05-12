@@ -19,6 +19,6 @@
   "description": "",
   "devDependencies": {
     "autoprefixer": "^10.0.2",
-    "postcss": "^8.1.7"
+    "postcss": "^8.2.10"
   }
 }
